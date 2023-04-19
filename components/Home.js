@@ -38,7 +38,7 @@ function Home() {
 
   //Fetch vers la route Get /movies
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("https://mymoviz-backend-eosin.vercel.app/movies")
       .then((response) => response.json())
       .then((data) => {
         setMoviesData([...moviesData, ...data.movies]);

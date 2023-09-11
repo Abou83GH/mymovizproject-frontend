@@ -16,7 +16,7 @@ Les états et les événements sont utilisés pour personnaliser les information
 
 La méthode de flux de données inverse est utilisée pour améliorer la liste des films favoris.
 
-L'application est enrichie d'un backend, et l'API The Movie Database est utilisée pour améliorer le contenu. Des hooks d'effet sont utilisés pour charger la liste des films suggérés (API : https://developers.themoviedb.org/3/getting-started/introduction )
+L'application est enrichie d'un backend, et l'API The Movie Database est utilisée pour améliorer le contenu. Des hooks d'effet sont utilisés pour charger la liste des films suggérés. (API : https://developers.themoviedb.org/3/getting-started/introduction )
 
 ## 🎬 Getting Started : Dependencies and Other
 

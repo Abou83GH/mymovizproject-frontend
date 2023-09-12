@@ -18,7 +18,7 @@ La méthode de flux de données inverse est utilisée pour améliorer la liste d
 
 L'application est enrichie d'un backend, et l'API The Movie Database est utilisée pour améliorer le contenu. Des hooks d'effet sont utilisés pour charger la liste des films suggérés. (API : https://developers.themoviedb.org/3/getting-started/introduction )
 
-## 🎬 Getting Started : Dependencies and Other
+## 🎬 Démarrage : Dépendances et Autres
 
 La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
 
@@ -34,7 +34,7 @@ yarn dev
 
 ```
 
-## ⚛️ Tech and Stuff
+## ⚛️ Stack technique
 
 - HTML
 - CSS
@@ -47,15 +47,15 @@ yarn dev
 - Vercel
 - …
 
-## 🚀 Deploy
+## 🚀 Site web déployé
 
 ⇒ https://mymoviz-frontend-vert.vercel.app/
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Auteur
 
 Roger NGUYEN
 
-## 🌐 Network
+## 🌐 Réseau
 
 My Portfolio : [Roger NGUYEN](https://portfolio-roger.vercel.app/)
 

@@ -1,40 +1,10 @@
 # 📚 My Moviz
 
-Bonjour,
-
-Je me présente, je suis Roger. Actuellement, je suis en train d’approfondir mes compétences en développement web, avec une concentration particulière sur le développement frontend en utilisant React. J’ai trouvé un immense plaisir à programmer tous ces projets. Je vous invite à me poser des questions et à explorer mes autres réalisations.
-
 ## ✍️ Description
 
-MyMoviz est une application basée sur React qui affiche les derniers films sortis, permettant aux utilisateurs d'ajouter des films à leurs favoris, de gérer un compteur de vues et de noter chaque film.
+MyMoviz is a React-based application that displays the latest movie releases, allowing users to add films to their favorites, manage a view counter, and rate each movie. The application focuses on React fundamentals, such as components and styling. Real movie data is incorporated into the application, giving the project a dynamic style. States and events are utilized to customize movie information. The reverse data flow method is employed to enhance the list of favorite films. The application is enhanced with a backend, and The Movie Database API is utilized to improve content. Effect hooks are used to load the list of suggested films. (API: https://developers.themoviedb.org/3/getting-started/introduction)
 
-L'application se concentre sur les bases de React, telles que les composants et la mise en forme.
-
-Des informations réelles sur les films sont ajoutées à l'application, rendant le style du projet dynamique.
-
-Les états et les événements sont utilisés pour personnaliser les informations sur les films.
-
-La méthode de flux de données inverse est utilisée pour améliorer la liste des films favoris.
-
-L'application est enrichie d'un backend, et l'API The Movie Database est utilisée pour améliorer le contenu. Des hooks d'effet sont utilisés pour charger la liste des films suggérés. (API : https://developers.themoviedb.org/3/getting-started/introduction )
-
-## 🎬 Démarrage : Dépendances et Autres
-
-La plupart de mes projets ont un frontend et backend séparés, vous les trouverez sur mon github.
-
-```
-
-yarn install
-
-```
-
-```
-
-yarn dev
-
-```
-
-## ⚛️ Stack technique
+## ⚛️ Stack
 
 - HTML
 - CSS
@@ -47,16 +17,3 @@ yarn dev
 - Vercel
 - …
 
-## 🚀 Site web déployé
-
-⇒ https://mymoviz-frontend-vert.vercel.app/
-
-## 🧑‍💻 Auteur
-
-Roger NGUYEN
-
-## 🌐 Réseau
-
-My Portfolio : [Roger NGUYEN](https://portfolio-roger.vercel.app/)
-
-LinkedIn : [https://www.linkedin.com/in/roger-nguyen-7705aa257](https://www.linkedin.com/in/roger-nguyen-7705aa257/)
